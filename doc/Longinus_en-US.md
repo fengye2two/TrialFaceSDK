@@ -351,7 +351,8 @@ SIMD Instruction Set | AVX2 |
 
 ##### Test Report
 
-minSize=48, scale=1.2, minNeighbors=3, useMultiThreads=false, doEarlyReject=false
+Parameter: minSize=48, scale=1.2, minNeighbors=3, useMultiThreads=false, doEarlyReject=false
+
 Detect Time(ms)：
 
 Image_Size | FRONTALVIEW | FRONTALVIEW_REINFORCE | MULTIVIEW | MULTIVIEW_REINFORCE
